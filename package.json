@@ -1,0 +1,28 @@
+{
+  "name": "simple_crawler",
+  "version": "1.0.0",
+  "description": "A simple node crawler using request, cheerio and fs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneSlashNinja/SimpleCrawler.git"
+  },
+  "keywords": [
+    "crawler",
+    "nodejs",
+    "cheerio"
+  ],
+  "author": "Qiyue Sheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OneSlashNinja/SimpleCrawler/issues"
+  },
+  "homepage": "https://github.com/OneSlashNinja/SimpleCrawler#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0"
+  }
+}
